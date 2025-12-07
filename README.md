@@ -12,7 +12,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### 📫 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/rinali-pesakya-163255384" target="_blank">
@@ -28,22 +28,21 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🧰 Languages and Tools
 
-#### 📌 Programming Languages
+#### 💻 Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]()
 [![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=gear&logoColor=white)]()
 
 #### 🌐 Web Development
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 
 #### 📱 Mobile & Embedded Development
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)]()
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)]()
 
 #### 🔧 DevOps & Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
@@ -52,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Contributions
+### 📈 GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rinali-P/Rinali-P/blob/main/dist/github-contribution-grid-snake-dark.svg" />
